@@ -1,15 +1,20 @@
-<!DOCTYPE html>
+<!DOCTYPE html> <!-- IMPORTANT -->
 <html>
 	<head>
 		<meta charset = "utf-8" />
 		<title> Super titre qui déchire </title>
+		<style type="text/css">
+  			body {
+			    color: blue;
+			    background-color: #fff8dc }
+		  </style>
 	</head>
 
 	<body LEFTMARGIN="40" RIGHTMARGIN="40">
 		<CENTER><h1> Quelque chose qui me tient à coeur </h1></CENTER>
 		<p>
 		<CENTER><h2> Je tente un truc </h2></CENTER>
-		Parfois on n'a <strong>absolument aucune idée</strong>, alors on écrit <em>encore et encore</em> en espérant que <mark>l'inspiration vienne d'elle-même</mark>, tel un chat voulant tuer tes enfants, ton chien et ton hamster nommé Hubert, et puis tu te rend comptes que t'as écris quelque chose, ce qui n'est pas mon cas, car j'avais prévu la fin de ma phrase en avance, sauf le moment où je précise que j'avais prévu la fin de ma phrase en avance, ainsi que cette phrase que t'es en train de lire jusqu'à mainten-
+		Parfois on n'a <strong>absolument aucune idée</strong>, alors on écrit <em>encore et encore</em> en espérant que <mark>l'inspiration vienne d'elle-même</mark>, tel un chat voulant tuer tes enfants, ton chien et ton hamster nommé Hubert, et puis tu te rends compte que t'as écris quelque chose, ce qui n'est pas mon cas, car j'avais prévu la fin de ma phrase en avance, sauf le moment où je précise que j'avais prévu la fin de ma phrase en avance, ainsi que cette phrase que t'es en train de lire jusqu'à mainten-
 		</p>
 		<p></br></p>
 		<CENTER><h2> OMG illumination ! </h2></CENTER>
@@ -25,7 +30,7 @@
 		<li>une autre table</li>
 		<li>les mystérieuses cités d'or</li>
 		<li>Stephane Bern</li></ul>
-		<img class="shrinkToFit" src="http://s.plurielles.fr/mmdia/i/84/4/stephane-bern-4077844aodnr.jpg?v=1" alt="http://s.plurielles.fr/mmdia/i/84/4/stephane-bern-4077844aodnr.jpg?v=1" width="180" heigt="180"></img>
+		<figure><img class="shrinkToFit" src="http://s.plurielles.fr/mmdia/i/84/4/stephane-bern-4077844aodnr.jpg?v=1" alt="http://s.plurielles.fr/mmdia/i/84/4/stephane-bern-4077844aodnr.jpg?v=1" width="180" heigt="180"></img></figure>
 		<p>Je sais, ça surprend. Mais je sens que vous brûlez d'impatience de connaître la suite de mon épopée, c'est pour ça que je vais m'arrêter là. Bonne app'.
 		</p>
 		
